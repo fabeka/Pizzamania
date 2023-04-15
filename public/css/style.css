@@ -1,0 +1,29 @@
+.navbox{
+  
+    background-color: #870e0e;
+    border: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navbox .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+.navbox .navbar-nav > li > a {
+    color: #fff;
+}
+.carousel-height{
+	height: 550px;
+}
+.about-pizza{
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+}
+
+.footer{
+	background-color:#870e0e ;
+	padding-bottom: 1rem;
+	padding-top: 2rem;
+	color: white;
+
+}
